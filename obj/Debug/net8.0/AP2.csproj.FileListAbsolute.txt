@@ -1,0 +1,14 @@
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.AssemblyInfoInputs.cache
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.AssemblyInfo.cs
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\AP2\bin\Debug\net8.0\AP2.exe
+C:\Users\Samsung\AP2\bin\Debug\net8.0\AP2.deps.json
+C:\Users\Samsung\AP2\bin\Debug\net8.0\AP2.runtimeconfig.json
+C:\Users\Samsung\AP2\bin\Debug\net8.0\AP2.dll
+C:\Users\Samsung\AP2\bin\Debug\net8.0\AP2.pdb
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.dll
+C:\Users\Samsung\AP2\obj\Debug\net8.0\refint\AP2.dll
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.pdb
+C:\Users\Samsung\AP2\obj\Debug\net8.0\AP2.genruntimeconfig.cache
+C:\Users\Samsung\AP2\obj\Debug\net8.0\ref\AP2.dll
